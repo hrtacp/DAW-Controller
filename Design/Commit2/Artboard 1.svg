@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="5906" height="4724" viewBox="0 0 5906 4724">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #000;
+        stroke-width: 23.622px;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <g id="Artboard_1" data-name="Artboard 1">
+    <path class="cls-1" d="M1417,1417H4960V3779H1417V1417Z" transform="translate(-224 -225)"/>
+    <path class="cls-1" d="M826,1417h591V3779H826V1417Z" transform="translate(-224 -225)"/>
+    <path class="cls-1" d="M4960,1417h591V3779H4960V1417Z" transform="translate(-224 -225)"/>
+    <path class="cls-1" d="M1417,826H4960v591H1417V826Z" transform="translate(-224 -225)"/>
+    <path class="cls-1" d="M1417,3779H4960v591H1417V3779Z" transform="translate(-224 -225)"/>
+    <path class="cls-1" d="M1417,473H4960V827H1417V473Z" transform="translate(-224 -225)"/>
+    <path class="cls-1" d="M1418,4370H4961v354H1418V4370Z" transform="translate(-224 -225)"/>
+    <path class="cls-1" d="M472,1771H826V3424.54H472V1771Z" transform="translate(-224 -225)"/>
+    <path class="cls-1" d="M5552,1771h354V3424.54H5552V1771Z" transform="translate(-224 -225)"/>
+    <path class="cls-1" d="M4961,826h591v591H4961V826Z" transform="translate(-224 -225)"/>
+    <path class="cls-1" d="M826,826h591v591H826V826Z" transform="translate(-224 -225)"/>
+    <path class="cls-1" d="M826,3779h591v591H826V3779Z" transform="translate(-224 -225)"/>
+    <path class="cls-1" d="M4961,3779h591v591H4961V3779Z" transform="translate(-224 -225)"/>
+  </g>
+</svg>
