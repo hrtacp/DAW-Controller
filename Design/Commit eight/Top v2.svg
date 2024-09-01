@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1142" height="787" viewBox="0 0 1142 787">
+  <defs>
+    <style>
+      .cls-1, .cls-2, .cls-3 {
+        fill: none;
+        stroke: #000;
+        fill-rule: evenodd;
+      }
+
+      .cls-1 {
+        stroke-width: 15px;
+        opacity: 0.2;
+      }
+
+      .cls-2 {
+        stroke-width: 3px;
+      }
+
+      .cls-3 {
+        stroke-width: 1px;
+      }
+    </style>
+  </defs>
+  <g id="Top">
+    <path class="cls-1" d="M0,0H1142V787H0V0Z"/>
+    <path class="cls-2" d="M150.5,207.4h16V629.607h-16V207.4Zm0,0h16V629.607h-16V207.4Z"/>
+    <path class="cls-2" d="M268.5,207.4h16V629.607h-16V207.4Zm0,0h16V629.607h-16V207.4Z"/>
+    <path class="cls-2" d="M386.5,207.4h16V629.607h-16V207.4Zm0,0h16V629.607h-16V207.4Z"/>
+    <path class="cls-2" d="M504.5,207.4h16V629.607h-16V207.4Zm0,0h16V629.607h-16V207.4Z"/>
+    <path id="Rectangle_4_copy" data-name="Rectangle 4 copy" class="cls-2" d="M622.5,207.4h16V629.607h-16V207.4Zm0,0h16V629.607h-16V207.4Z"/>
+    <path id="Rectangle_4_copy_2" data-name="Rectangle 4 copy 2" class="cls-2" d="M740.5,207.4h16V629.607h-16V207.4Zm0,0h16V629.607h-16V207.4Z"/>
+    <path id="Rectangle_4_copy_3" data-name="Rectangle 4 copy 3" class="cls-2" d="M858.5,207.4h16V629.607h-16V207.4Zm0,0h16V629.607h-16V207.4Z"/>
+    <path id="Rectangle_4_copy_4" data-name="Rectangle 4 copy 4" class="cls-2" d="M976.5,207.4h16V629.607h-16V207.4Zm0,0h16V629.607h-16V207.4Zm-825-.14,16,0"/>
+    <image id="Line_2" data-name="Line 2" x="146" y="65" width="855" height="16" xlink:href="data:img/png;base64,iVBORw0KGgoAAAANSUhEUgAAA1cAAAAQCAYAAAD6d4W5AAADl0lEQVR4nO3dsWtVZxzG8e8vXAQ3HTqolFAQixci2NFCBaVDlRpBqGv/jQbs4KBz7Wrp4KaDqBChnTtkCUKpoZ10cGkR7dIuTX4dzkk8yTnJvTf3zdE8Ph944ebec9835JtceHmTm8hMRomIT4B54FPgY+Bw/dAr4HfgF+BBZi6PnMzeGe6qx001uasut9XkrprcdX+KiHEuG6stMLJt7LS5ioh54Nt6wXEsA9cz88GY19tb4K563FSTu+pyW03uqsld97cRm6tdtaXaaHWv17W5iogPgB+Bi2MutNUi8HVm/rXL59secFc9bqrJXXW5rSZ31eSuGrbZXBVpC7TatjZXETEHPAaONe7+t57kPrAE/AkcAI4Cp4DLwAXgYOM5L4AvMvPXXX7SVpC76nFTTe6qy201uasmd9XRsbkq2hbY3DYzN0a92Esg67EK/AAcaV7XNYAj9bWrjee/BOZGPddjb4e76g031RzuqjvcVnO4q+ZwV62xxbZtt17YYdu2zYs2Tq4i4hDwBJitH3sNXM3Mn8ZY7M2EEZ8Dd4FD9V3PgdOZ+WqSeawMd9XjpprcVZfbanJXTe6qp3Fy1dkWmKgt0NmW6s0vmGlc+H1jsb+Bc5N+IwFk5s/AeeCf+q5Z4Nak81gx7qrHTTW5qy631eSumtxVV6stk2+sAHZuW59cnQHWqI631oAvCxzBfbVlzjNv+1jwfRvuqjfcVHO4q+5wW83hrprDXTVHrdW2c9s0mVZbeHNydQ1YPzO7k5mPpl0tM+8C9+oPg+ptDq1f7qrHTTW5qy631eSumtxV16a2wNRtqX41sNU2gA+BZ1Qbrf+A45n5vMCCRMQJ4DdgQLWr+6jU3LaziHBXMW6qyV11ua0md9Xkrrq62lL9nVQJrbYzVG8tuH6CtVgydmb+QfW2hlBt5C6XmttGclc9bqrJXXW5rSZ31eSuuja1pdzGCqDVdgCcbVzwsOBizTkv1bc/A77bgzWszV3F5NMbzT+EvcTKzfZ/AJ9u/o3bMVxw0/74Z1WX22pyV03uqqvXtgNg2HhwaQ8WbM453PYqK81dbRpu2pN8euNK48PbrNy8XXj+jdsxXHDXfvl1WJO7anJXXb22DarfD+xNZrb+TbKVFxHuqqbwSdVOYrjgpn1xV1l+HdbkrprcVVffbQeOq8ldbRr+/tHkrv3y11uTu2pyV119tx30uZiZTeHkN37hNzMzM3uH/Q++Q9ntZ314mwAAAABJRU5ErkJggg=="/>
+    <path class="cls-3" d="M158,123a14,14,0,1,1-14,14A14,14,0,0,1,158,123Zm0,0a14,14,0,1,1-14,14A14,14,0,0,1,158,123Zm0,0a14,14,0,1,1-14,14A14,14,0,0,1,158,123Zm0,0a14,14,0,1,1-14,14A14,14,0,0,1,158,123Zm0,0a14,14,0,1,1-14,14A14,14,0,0,1,158,123Zm0,0a14,14,0,1,1-14,14A14,14,0,0,1,158,123Z"/>
+    <path id="Ellipse_1_copy" data-name="Ellipse 1 copy" class="cls-3" d="M276,123a14,14,0,1,1-14,14A14,14,0,0,1,276,123Zm0,0a14,14,0,1,1-14,14A14,14,0,0,1,276,123Zm0,0a14,14,0,1,1-14,14A14,14,0,0,1,276,123Zm0,0a14,14,0,1,1-14,14A14,14,0,0,1,276,123Zm0,0a14,14,0,1,1-14,14A14,14,0,0,1,276,123Zm0,0a14,14,0,1,1-14,14A14,14,0,0,1,276,123Zm0,0a14,14,0,1,1-14,14A14,14,0,0,1,276,123Zm0,0a14,14,0,1,1-14,14A14,14,0,0,1,276,123Zm0,0a14,14,0,1,1-14,14A14,14,0,0,1,276,123Z"/>
+    <path id="Ellipse_1_copy_2" data-name="Ellipse 1 copy 2" class="cls-3" d="M394,123a14,14,0,1,1-14,14A14,14,0,0,1,394,123Zm0,0a14,14,0,1,1-14,14A14,14,0,0,1,394,123Zm0,0a14,14,0,1,1-14,14A14,14,0,0,1,394,123Zm0,0a14,14,0,1,1-14,14A14,14,0,0,1,394,123Zm0,0a14,14,0,1,1-14,14A14,14,0,0,1,394,123Zm0,0a14,14,0,1,1-14,14A14,14,0,0,1,394,123Z"/>
+    <path id="Ellipse_1_copy_3" data-name="Ellipse 1 copy 3" class="cls-3" d="M512,123a14,14,0,1,1-14,14A14,14,0,0,1,512,123Zm0,0a14,14,0,1,1-14,14A14,14,0,0,1,512,123Zm0,0a14,14,0,1,1-14,14A14,14,0,0,1,512,123Zm0,0a14,14,0,1,1-14,14A14,14,0,0,1,512,123Zm0,0a14,14,0,1,1-14,14A14,14,0,0,1,512,123Zm0,0a14,14,0,1,1-14,14A14,14,0,0,1,512,123Zm0,0a14,14,0,1,1-14,14A14,14,0,0,1,512,123Zm0,0a14,14,0,1,1-14,14A14,14,0,0,1,512,123Zm0,0a14,14,0,1,1-14,14A14,14,0,0,1,512,123Zm0,0a14,14,0,1,1-14,14A14,14,0,0,1,512,123Zm0,0a14,14,0,1,1-14,14A14,14,0,0,1,512,123Zm0,0a14,14,0,1,1-14,14A14,14,0,0,1,512,123Zm0,0a14,14,0,1,1-14,14A14,14,0,0,1,512,123Zm0,0a14,14,0,1,1-14,14A14,14,0,0,1,512,123Zm0,0a14,14,0,1,1-14,14A14,14,0,0,1,512,123Zm0,0a14,14,0,1,1-14,14A14,14,0,0,1,512,123Zm0,0a14,14,0,1,1-14,14A14,14,0,0,1,512,123Zm0,0a14,14,0,1,1-14,14A14,14,0,0,1,512,123Z"/>
+    <path id="Ellipse_1_copy_4" data-name="Ellipse 1 copy 4" class="cls-3" d="M630,123a14,14,0,1,1-14,14A14,14,0,0,1,630,123Zm0,0a14,14,0,1,1-14,14A14,14,0,0,1,630,123Zm0,0a14,14,0,1,1-14,14A14,14,0,0,1,630,123Zm0,0a14,14,0,1,1-14,14A14,14,0,0,1,630,123Zm0,0a14,14,0,1,1-14,14A14,14,0,0,1,630,123Zm0,0a14,14,0,1,1-14,14A14,14,0,0,1,630,123Z"/>
+    <path id="Ellipse_1_copy_5" data-name="Ellipse 1 copy 5" class="cls-3" d="M748,123a14,14,0,1,1-14,14A14,14,0,0,1,748,123Zm0,0a14,14,0,1,1-14,14A14,14,0,0,1,748,123Zm0,0a14,14,0,1,1-14,14A14,14,0,0,1,748,123Zm0,0a14,14,0,1,1-14,14A14,14,0,0,1,748,123Zm0,0a14,14,0,1,1-14,14A14,14,0,0,1,748,123Zm0,0a14,14,0,1,1-14,14A14,14,0,0,1,748,123Zm0,0a14,14,0,1,1-14,14A14,14,0,0,1,748,123Zm0,0a14,14,0,1,1-14,14A14,14,0,0,1,748,123Zm0,0a14,14,0,1,1-14,14A14,14,0,0,1,748,123Z"/>
+    <path id="Ellipse_1_copy_6" data-name="Ellipse 1 copy 6" class="cls-3" d="M866,123a14,14,0,1,1-14,14A14,14,0,0,1,866,123Zm0,0a14,14,0,1,1-14,14A14,14,0,0,1,866,123Zm0,0a14,14,0,1,1-14,14A14,14,0,0,1,866,123Zm0,0a14,14,0,1,1-14,14A14,14,0,0,1,866,123Zm0,0a14,14,0,1,1-14,14A14,14,0,0,1,866,123Zm0,0a14,14,0,1,1-14,14A14,14,0,0,1,866,123Z"/>
+    <path id="Ellipse_1_copy_7" data-name="Ellipse 1 copy 7" class="cls-3" d="M984,123a14,14,0,1,1-14,14A14,14,0,0,1,984,123Zm0,0a14,14,0,1,1-14,14A14,14,0,0,1,984,123Zm0,0a14,14,0,1,1-14,14A14,14,0,0,1,984,123Zm0,0a14,14,0,1,1-14,14A14,14,0,0,1,984,123Zm0,0a14,14,0,1,1-14,14A14,14,0,0,1,984,123Zm0,0a14,14,0,1,1-14,14A14,14,0,0,1,984,123Zm0,0a14,14,0,1,1-14,14A14,14,0,0,1,984,123Zm0,0a14,14,0,1,1-14,14A14,14,0,0,1,984,123Zm0,0a14,14,0,1,1-14,14A14,14,0,0,1,984,123Zm0,0a14,14,0,1,1-14,14A14,14,0,0,1,984,123Zm0,0a14,14,0,1,1-14,14A14,14,0,0,1,984,123Zm0,0a14,14,0,1,1-14,14A14,14,0,0,1,984,123Zm0,0a14,14,0,1,1-14,14A14,14,0,0,1,984,123Zm0,0a14,14,0,1,1-14,14A14,14,0,0,1,984,123Zm0,0a14,14,0,1,1-14,14A14,14,0,0,1,984,123Zm0,0a14,14,0,1,1-14,14A14,14,0,0,1,984,123Zm0,0a14,14,0,1,1-14,14A14,14,0,0,1,984,123Zm0,0a14,14,0,1,1-14,14A14,14,0,0,1,984,123Z"/>
+  </g>
+</svg>
