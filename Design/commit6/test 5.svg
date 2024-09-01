@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1142" height="787" viewBox="0 0 1142 787">
+  <defs>
+    <style>
+      .cls-1, .cls-2, .cls-3 {
+        fill: none;
+        stroke: #000;
+        fill-rule: evenodd;
+      }
+
+      .cls-1 {
+        stroke-width: 15px;
+        opacity: 0.2;
+      }
+
+      .cls-2 {
+        stroke-width: 3px;
+      }
+
+      .cls-3 {
+        stroke-width: 1px;
+      }
+    </style>
+    <image id="image" width="28" height="14" xlink:href="data:img/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAOCAYAAAA8E3wEAAABDUlEQVQ4jb3SvUoDQRiF4Se5AFHQIoWkEW2iYMoIWmknSWWjt5ZCUgk2in83YBlLRasIaUNsTCOJNrPsuPiz0dUDA8t857xnZndL8qmOJjawgrmwP8Q9rnGCm5y8T9VEF685VzdkptYCzqYoyq7zwMilVfQzgBGOsY8lzGAeazgIs1Em0w+sb8sGUWiMNio5DloJ3nGUH3xVOoteZB5iJ0dRVtshm3B60p/snTqR6QnrPyhLVMdzxOtkDQ1MwnCC3V+UJdrLMBvx8DI6zWEBZYmOIu5Vsrko/dAvqBZYuByYyS2rZbRQDoYLPBZY+BCYUEKrjK3IcFpg2UfMTbiVvufaHxTWIv5dKTz8m94AG/pniM2pnOcAAAAASUVORK5CYII="/>
+  </defs>
+  <g id="Top">
+    <path class="cls-1" d="M0,0H1142V787H0V0Z"/>
+    <path class="cls-2" d="M150,197h16V650.006H150V197Zm0,0h16V650.006H150V197Z"/>
+    <path class="cls-2" d="M268,197h16V650.006H268V197Zm0,0h16V650.006H268V197Z"/>
+    <path class="cls-2" d="M386,197h16V650.006H386V197Zm0,0h16V650.006H386V197Z"/>
+    <path class="cls-2" d="M504,197h16V650.006H504V197Zm0,0h16V650.006H504V197Z"/>
+    <path id="Rectangle_4_copy" data-name="Rectangle 4 copy" class="cls-2" d="M622,197h16V650.006H622V197Zm0,0h16V650.006H622V197Z"/>
+    <path id="Rectangle_4_copy_2" data-name="Rectangle 4 copy 2" class="cls-2" d="M740,197h16V650.006H740V197Zm0,0h16V650.006H740V197Z"/>
+    <path id="Rectangle_4_copy_3" data-name="Rectangle 4 copy 3" class="cls-2" d="M858,197h16V650.006H858V197Zm0,0h16V650.006H858V197Z"/>
+    <path id="Rectangle_4_copy_4" data-name="Rectangle 4 copy 4" class="cls-2" d="M976,197h16V650.006H976V197Zm0,0h16V650.006H976V197Zm-825-.15,16,0"/>
+    <use id="Line_1" data-name="Line 1" x="973" y="65" xlink:href="#image"/>
+    <use id="Line_1-2" data-name="Line 1" x="854" y="65" xlink:href="#image"/>
+    <use id="Line_1-3" data-name="Line 1" x="736" y="65" xlink:href="#image"/>
+    <use id="Line_1-4" data-name="Line 1" x="618" y="65" xlink:href="#image"/>
+    <use id="Line_1-5" data-name="Line 1" x="499" y="65" xlink:href="#image"/>
+    <use id="Line_1-6" data-name="Line 1" x="381" y="65" xlink:href="#image"/>
+    <use id="Line_1-7" data-name="Line 1" x="264" y="65" xlink:href="#image"/>
+    <use id="Line_1-8" data-name="Line 1" x="146" y="65" xlink:href="#image"/>
+    <path class="cls-3" d="M158,123a14,14,0,1,1-14,14A14,14,0,0,1,158,123Zm0,0a14,14,0,1,1-14,14A14,14,0,0,1,158,123Zm0,0a14,14,0,1,1-14,14A14,14,0,0,1,158,123Zm0,0a14,14,0,1,1-14,14A14,14,0,0,1,158,123Zm0,0a14,14,0,1,1-14,14A14,14,0,0,1,158,123Zm0,0a14,14,0,1,1-14,14A14,14,0,0,1,158,123Z"/>
+    <path id="Ellipse_1_copy" data-name="Ellipse 1 copy" class="cls-3" d="M276,123a14,14,0,1,1-14,14A14,14,0,0,1,276,123Zm0,0a14,14,0,1,1-14,14A14,14,0,0,1,276,123Zm0,0a14,14,0,1,1-14,14A14,14,0,0,1,276,123Zm0,0a14,14,0,1,1-14,14A14,14,0,0,1,276,123Zm0,0a14,14,0,1,1-14,14A14,14,0,0,1,276,123Zm0,0a14,14,0,1,1-14,14A14,14,0,0,1,276,123Zm0,0a14,14,0,1,1-14,14A14,14,0,0,1,276,123Zm0,0a14,14,0,1,1-14,14A14,14,0,0,1,276,123Zm0,0a14,14,0,1,1-14,14A14,14,0,0,1,276,123Z"/>
+    <path id="Ellipse_1_copy_2" data-name="Ellipse 1 copy 2" class="cls-3" d="M394,123a14,14,0,1,1-14,14A14,14,0,0,1,394,123Zm0,0a14,14,0,1,1-14,14A14,14,0,0,1,394,123Zm0,0a14,14,0,1,1-14,14A14,14,0,0,1,394,123Zm0,0a14,14,0,1,1-14,14A14,14,0,0,1,394,123Zm0,0a14,14,0,1,1-14,14A14,14,0,0,1,394,123Zm0,0a14,14,0,1,1-14,14A14,14,0,0,1,394,123Z"/>
+    <path id="Ellipse_1_copy_3" data-name="Ellipse 1 copy 3" class="cls-3" d="M512,123a14,14,0,1,1-14,14A14,14,0,0,1,512,123Zm0,0a14,14,0,1,1-14,14A14,14,0,0,1,512,123Zm0,0a14,14,0,1,1-14,14A14,14,0,0,1,512,123Zm0,0a14,14,0,1,1-14,14A14,14,0,0,1,512,123Zm0,0a14,14,0,1,1-14,14A14,14,0,0,1,512,123Zm0,0a14,14,0,1,1-14,14A14,14,0,0,1,512,123Zm0,0a14,14,0,1,1-14,14A14,14,0,0,1,512,123Zm0,0a14,14,0,1,1-14,14A14,14,0,0,1,512,123Zm0,0a14,14,0,1,1-14,14A14,14,0,0,1,512,123Zm0,0a14,14,0,1,1-14,14A14,14,0,0,1,512,123Zm0,0a14,14,0,1,1-14,14A14,14,0,0,1,512,123Zm0,0a14,14,0,1,1-14,14A14,14,0,0,1,512,123Zm0,0a14,14,0,1,1-14,14A14,14,0,0,1,512,123Zm0,0a14,14,0,1,1-14,14A14,14,0,0,1,512,123Zm0,0a14,14,0,1,1-14,14A14,14,0,0,1,512,123Zm0,0a14,14,0,1,1-14,14A14,14,0,0,1,512,123Zm0,0a14,14,0,1,1-14,14A14,14,0,0,1,512,123Zm0,0a14,14,0,1,1-14,14A14,14,0,0,1,512,123Z"/>
+    <path id="Ellipse_1_copy_4" data-name="Ellipse 1 copy 4" class="cls-3" d="M630,123a14,14,0,1,1-14,14A14,14,0,0,1,630,123Zm0,0a14,14,0,1,1-14,14A14,14,0,0,1,630,123Zm0,0a14,14,0,1,1-14,14A14,14,0,0,1,630,123Zm0,0a14,14,0,1,1-14,14A14,14,0,0,1,630,123Zm0,0a14,14,0,1,1-14,14A14,14,0,0,1,630,123Zm0,0a14,14,0,1,1-14,14A14,14,0,0,1,630,123Z"/>
+    <path id="Ellipse_1_copy_5" data-name="Ellipse 1 copy 5" class="cls-3" d="M748,123a14,14,0,1,1-14,14A14,14,0,0,1,748,123Zm0,0a14,14,0,1,1-14,14A14,14,0,0,1,748,123Zm0,0a14,14,0,1,1-14,14A14,14,0,0,1,748,123Zm0,0a14,14,0,1,1-14,14A14,14,0,0,1,748,123Zm0,0a14,14,0,1,1-14,14A14,14,0,0,1,748,123Zm0,0a14,14,0,1,1-14,14A14,14,0,0,1,748,123Zm0,0a14,14,0,1,1-14,14A14,14,0,0,1,748,123Zm0,0a14,14,0,1,1-14,14A14,14,0,0,1,748,123Zm0,0a14,14,0,1,1-14,14A14,14,0,0,1,748,123Z"/>
+    <path id="Ellipse_1_copy_6" data-name="Ellipse 1 copy 6" class="cls-3" d="M866,123a14,14,0,1,1-14,14A14,14,0,0,1,866,123Zm0,0a14,14,0,1,1-14,14A14,14,0,0,1,866,123Zm0,0a14,14,0,1,1-14,14A14,14,0,0,1,866,123Zm0,0a14,14,0,1,1-14,14A14,14,0,0,1,866,123Zm0,0a14,14,0,1,1-14,14A14,14,0,0,1,866,123Zm0,0a14,14,0,1,1-14,14A14,14,0,0,1,866,123Z"/>
+    <path id="Ellipse_1_copy_7" data-name="Ellipse 1 copy 7" class="cls-3" d="M984,123a14,14,0,1,1-14,14A14,14,0,0,1,984,123Zm0,0a14,14,0,1,1-14,14A14,14,0,0,1,984,123Zm0,0a14,14,0,1,1-14,14A14,14,0,0,1,984,123Zm0,0a14,14,0,1,1-14,14A14,14,0,0,1,984,123Zm0,0a14,14,0,1,1-14,14A14,14,0,0,1,984,123Zm0,0a14,14,0,1,1-14,14A14,14,0,0,1,984,123Zm0,0a14,14,0,1,1-14,14A14,14,0,0,1,984,123Zm0,0a14,14,0,1,1-14,14A14,14,0,0,1,984,123Zm0,0a14,14,0,1,1-14,14A14,14,0,0,1,984,123Zm0,0a14,14,0,1,1-14,14A14,14,0,0,1,984,123Zm0,0a14,14,0,1,1-14,14A14,14,0,0,1,984,123Zm0,0a14,14,0,1,1-14,14A14,14,0,0,1,984,123Zm0,0a14,14,0,1,1-14,14A14,14,0,0,1,984,123Zm0,0a14,14,0,1,1-14,14A14,14,0,0,1,984,123Zm0,0a14,14,0,1,1-14,14A14,14,0,0,1,984,123Zm0,0a14,14,0,1,1-14,14A14,14,0,0,1,984,123Zm0,0a14,14,0,1,1-14,14A14,14,0,0,1,984,123Zm0,0a14,14,0,1,1-14,14A14,14,0,0,1,984,123Z"/>
+    <image id="test" x="955" y="84" width="29" height="29" xlink:href="data:img/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB0AAAAdCAYAAABWk2cPAAABdUlEQVRIicXUvU4bQRSG4WcdFzhIwW4QwqYPiiJBLgBxD3RQ5Apck4KePtRJF6XID9RJlSswBQUNShPEXxCCJkWQhmJsZSMbvDa760/aYndnznvOzDlfIpvmsYYVvMQcZnCDExzgB77iOGPMe7WEXVziPTbwvAuEZ1jEOt7hN75geRzYFN7iFG08zbhvGps4xw5qWYFNdPAB9VEyTakhnlAHrWGLW/gpZvtYJdjC0UPgGvbxJgdgWttixQOvaAcfcwYSK/7Ujf+fXolN0ygACrPiBCylP+6KXVqk2tjrvTRxZYT2HlM1XGDhCV6LzvK5YOitaCT1ClbxvWBgT99EK3WIFyVBF3GY4Fr00LL0p4pfot3Nolog7C/OxNFRFQe4DCWoCCGUxIsKIaiUSpykku5TyhmXfZX90BDCZLLoyyTnuOnYfd2bN7gXL0n+WUGhppAuIA0dNKe5J5IGZtIYTZaMue/+YEP+VzKsG+koe1cRPNJM7gDsf2IHEUEm/wAAAABJRU5ErkJggg=="/>
+    <image id="Ellipse_3" data-name="Ellipse 3" x="147" y="65" width="26" height="15" xlink:href="data:img/png;base64,iVBORw0KGgoAAAANSUhEUgAAABoAAAAPCAYAAAD6Ud/mAAABF0lEQVQ4jbXUsUrDUBSH8V+D4KoUuzgpqFMFcao46CIuTm19BZ+no29QnAQdxKmDm7hotfgIIhQHhTpIHHqCtZZaNP0ghHO45/vn5pIU/M46DrCHNSxE/xmPuMQZbidwjWQfN0gnvK5jZiSFEb05HOMw6hRXuEAHT3hHCRsh3x5wneAIL+N2sYj2wFOeozxuICjrv75srh2ukczjIRa+oj5BwDD1mE1xH84fnMaCN1T+EJKxFY40nN+o+dp29R8hGdUBXy1rJvqHnKKZQ0hGM5ydyLAbjQ+s5Bi0Gs4UO9CIopVjSEYr3I1E//Dof+F5kzkrCZaiuJtCUDvuyzMoRlHCZs5B2X+xWEAPszkHDNNL0J1yCHQ/AYAYSbV0jw9aAAAAAElFTkSuQmCC"/>
+  </g>
+</svg>
